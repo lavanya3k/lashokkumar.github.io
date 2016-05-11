@@ -9,6 +9,9 @@
 @import "variables";
 // Syntax highlighting @import is at the bottom of this file
 
+@import url(https://fonts.googleapis.com/css?family=PT+Serif:400,700);
+@import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
+
 /**************/
 /* BASE RULES */
 /**************/
@@ -18,8 +21,8 @@ html {
 }
 
 body {
-	background: $white;
-  font: 18px/1.4 $helvetica;
+	background:$white;
+  font: 18px/1.4 "PT Serif";
   color: $darkGray;
 }
 
@@ -31,8 +34,8 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: $helveticaNeue;
-  color: $darkerGray;
+  font-family: 'Montserrat';
+  color: $darkGray;
   font-weight: bold;
 
   line-height: 1.7;
@@ -156,7 +159,9 @@ img {
 
 .masthead {
   padding: 20px 0;
-  border-bottom: 1px solid $lightGray;
+  border-top: 1px solid #C2ABBA;
+  border-bottom: 1px solid #C2ABBA;
+  margin-top:10px;
 
   @include mobile {
     text-align: center;
@@ -192,10 +197,10 @@ img {
 
 .site-name {
   margin: 0;
-  color: $darkGray;
+  color: #8C3B49;
   cursor: pointer;
-  font-family: $helveticaNeue;
-  font-weight: 300;
+  font-family: 'Montserrat';
+  font-weight: 700;
   font-size: 28px;
   letter-spacing: 1px;
 }
@@ -212,8 +217,8 @@ img {
 
 nav {
   float: right;
-  margin-top: 23px; // @TODO: Vertically middle align
-  font-family: $helveticaNeue;
+  margin-top: 13px; // @TODO: Vertically middle align
+  font-family: 'Montserrat';
   font-size: 18px;
 
   @include mobile {
