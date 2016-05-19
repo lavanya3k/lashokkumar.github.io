@@ -21,9 +21,21 @@ The project brings together a range of experts in micro-biology, atmospheric che
 The whole project consists of four work packages delivered across five institutions along with several other partners. A website will be available soon.
 
 
-<!--
+
 ## Greenland Ice Sheet dynamics
+Each summer, areas of the Greenland Ice Sheet's surface melt. Observations show that this surface meltwater can drain to the bed of the ice sheet via supraglacial lake drainage, moulins and crevasses. 
+
+Once this meltwater arrives at the ice sheet bed it changes the amount of friction and contact between the ice and its bed. In turn this allows surface meltwater to affect the speed at which the ice flows downhill.
+
+I examined the impact of this effect over sub-daily and up to decadal timescales. I showed that land-terminating margins in the south-west of the ice sheet have been slowing down over the last 15-20 years in response to increased surface melting. 
+
+My findings suggest that at land-terminating margins, increased surface melting caused by projected climate change will *not* result in ice flow speed-up.
+
+Please see my [published papers](/publications) for more.
+
 
 
 ## Greenland Ice Sheet hydrology
--->
+The hydrology of the Greenland Ice Sheet is important not only in modifying ice flow (see above) but also for determining the rate at which meltwater drains into the ocean, and for evacuating sediments and nutrients from beneath the ice sheet. 
+
+I am involved in monitoring the amount of water that drains out the front of Leverett Glacier. I work with colleagues in biogeochemistry to estimate fluxes of iron, phosphorus and other nutrients from the ice sheet.
