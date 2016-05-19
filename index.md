@@ -8,7 +8,9 @@ Currently I am based in the [Bristol Glaciology Centre](http://www.bris.ac.uk/ge
 
 ## Contact me
 Please feel free to get in touch: 
+
 *Email:* a.j.tedstone at bristol.ac.uk.
+
 *Phone (office):* +44 (0) 117 331 4139.
 
 ## Background
