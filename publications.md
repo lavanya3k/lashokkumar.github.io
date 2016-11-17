@@ -5,8 +5,13 @@ title: Publications
 
 **All of my publications can be found on [Google Scholar](https://scholar.google.co.uk/citations?user=OgaNL1AAAAAJ&hl=en).**
   
+de Fleurian, B., M. Morlighem, H. Seroussi, E. Rignot, M. R. van den Broeke, P. K. Munneke, J. Mouginot, P. C. J. P. Smeets and **A. Tedstone** (2016). A modelling study of the effect of runoff variability on the effective pressure beneath Russell Glacier, west Greenland. Journal of Geophysical Research: Earth Surface. DOI: [10.1002/2016JF003842](http://dx.doi.org/10.1002/2016JF003842)
 
 Hawkings, J., J. Wadham, M. Tranter, J. Telling, E. Bagshaw, A. Beaton, S-L. Simmons, D. Chandler, **A. Tedstone** and P. Nienow (2016). The Greenland Ice Sheet as a hotspot of phosphorus weathering and export in the Arctic. Global Biogeochemical Cycles. DOI: [10.1002/2015GB005237.](http://dx.doi.org/10.1002/2015GB005237)
+
+<!--
+Wadham, J. L., J. Hawkings, J. Telling, D. Chandler, J. Alcock, E. Lawson, P. Kaur, E. A. Bagshaw, M. Tranter, **A. Tedstone** and P. Nienow (2015). Sources, cycling and export of nitrogen on the Greenland Ice Sheet. Biogeosciences Discuss. DOI: [10.5194/bg-2015-484.](http://dx.doi.org/10.5194/bg-2015-484)
+-->
 
 **Tedstone, A.**, P. Nienow, A. Dehecq, N. Gourmelen, D. Goldberg and E. Hanna. Decadal slowdown of a land-terminating sector of the Greenland Ice Sheet despite warming (2015). Nature, 526, 692--695. DOI: [10.1038/nature15722.](http://dx.doi.org/10.1038/nature15722)
 
