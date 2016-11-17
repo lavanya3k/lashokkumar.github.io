@@ -13,6 +13,7 @@ data = xr.open_mfdataset('/path/to/data/*.nc', chunks={'TIME':5})
 ```
 
 In my case I'm loading up a dataset of MODIS MOD10A1 daily surface albedo data that looks like the following:
+
 ```python
 In [22]: data
 Out[22]: 
