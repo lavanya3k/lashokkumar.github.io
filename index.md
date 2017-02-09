@@ -6,7 +6,7 @@ layout: default
 
 Currently I am based in the [Bristol Glaciology Centre](http://www.bris.ac.uk/geography/research/bgc/) at the [University of Bristol](http://www.bris.ac.uk/), where I am employed on [BLACK and BLOOM](http://www.blackandbloom.org), a NERC-funded project which aims to unravel the variations in the albedo of the Greenland Ice Sheet as a result of interactions between microbes and particulates. 
 
-I have also developed **GeoRaster**, a Python package for working with geographic rasters. Take a look at the [blog post](blog/2017-02-09-georaster-released), [documentation](http://georaster.readthedocs.io/en/latest/) or [GitHub repository](https://github.com/atedstone/georaster) for more details.
+I have also developed **GeoRaster**, a Python package for working with geographic rasters. Take a look at the [blog post](blog/georaster-released), [documentation](http://georaster.readthedocs.io/en/latest/) or [GitHub repository](https://github.com/atedstone/georaster) for more details.
 
 ## Contact me
 Please feel free to get in touch: 
