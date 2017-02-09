@@ -14,6 +14,7 @@ conda install -c conda-forge python=3.5 ipython matplotlib georaster
 ```
 
 Then in an iPython shell:
+
 ```python
 import georaster
 import matplotlib.pyplot as plt
