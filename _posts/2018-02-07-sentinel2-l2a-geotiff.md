@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Sentinel-2: Downloading, Conversion to L2A (reflectance) and reprojecting
+title: Sentinel-2 - Downloading, Conversion to L2A (reflectance) and reprojecting
 ---
 
 Sentinel-2 is a European Space Agency (ESA) satellite observation program which provides multispectral imagery at 10-60 m resolution with a repeat time of ~5 days. 
