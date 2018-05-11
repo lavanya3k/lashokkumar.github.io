@@ -22,4 +22,4 @@ Please feel free to get in touch:
 * 2010-2011: *M.Phil* 'Sediment plumes as indicators of Greenland Ice Sheet hydrology'
 * 2007-2010: *MA* Geography, University of Cambridge
 
-For more information you may download my [CV](images/resume-2017-07-03-tedstone.pdf) *(last updated 3 July 2017)*.
+For more information you may download my [CV](images/cv-2018-05-09-tedstone.pdf) *(last updated 9 May 2018)*.
