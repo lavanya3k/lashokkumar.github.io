@@ -4,6 +4,26 @@ title: Publications
 ---
 
 **All of my publications can be found on [Google Scholar](https://scholar.google.co.uk/citations?user=OgaNL1AAAAAJ&hl=en).**
+
+Bamber, J., **A. Tedstone**, A. Proshutinsky, D. Dukhovsky, E. Enderlin, I. Howat, M. King, B. Noel and M. van den Broeke (2018). Land ice budget of the Arctic and North Atlantic Oceans. Part I: Data, methods and results. JGR: Oceans. DOI: [10.1002/2017JC013605](https://doi.org/10.1002/2017JC013605)
+
+Williamson, C., A. Anesio, J. Cook, **A. Tedstone**, E. Sypianska, A. Holland, D. Fagan, M. Tranter, X. Fettweis and M. Yallop (2018). A time-for-space assessment of an ice algal bloom on the Greenland Ice Sheet. FEMS Microbiology Ecology. DOI:  [10.1093/femsec/fiy025](https://doi.org/10.1093/femsec/fiy025)
+
+**Tedstone, A.**, J. Bamber, J. Cook, C. Williamson, X. Fettweis, A. Hodson and M. Tranter (2017). Dark ice dynamics of the south-west Greenland Ice Sheet. The Cryosphere. DOI: [10.5194/tc-11-2491-2017](http://dx.doi.org/10.5194/tc-11-2491-2017)
+
+Cook, J., A. Hodson, A. Gardner, M. Flanner, **A. Tedstone**, C. Williamson, T. Irvine-Fynn, J. Nilsson, R. Bryant and M. Tranter (2017). Quantifying bioalbedo: A new physically-based model and critique of empirical methods for characterizing biological influence on ice and snow albedo. The Cryosphere. DOI: [10.5194/tc-11-2611-2017](http://dx.doi.org/10.5194/tc-11-2611-2017)
+
+Hofer, S., A. Tedstone}, X. Fettweis and J. Bamber (2017). Decreasing cloud cover drives the recent mass loss on the Greenland ice sheet. Science Advances. DOI: [10.1126/sciadv.17005844](http://dx.doi.org/10.1126/sciadv.170058)
+
+Kohler, T., J. Zarsky, J. Yde, G. Lamarche-Gagnon, J. Hawkings, **A. Tedstone**, J. Wadham, J. Box, A. Beaton and M. Stibal (2017). Carbon dating reveals a seasonal progression in the source of particulate organic carbon exported from the Greenland Ice Sheet. Geophysical Research Letters. DOI: [10.1002/2017GL073219](http://dx.doi.org/10.1002/2017GL073219)
+
+Musilova, M., M. Tranter, J. Wadham, J. Telling, **A. Tedstone** and A.M. Anesio (2017). Microbially driven export of labile organic carbon from the Greenland ice sheet. Nature Geoscience. DOI: [10.1038/ngeo2920](http://dx.doi.org/10.1038/ngeo2920].
+
+Linhoff, B., M. Charette, P. Nienow, J. Wadham, **A. Tedstone** and T. Cowton (2017). Utility of 222-Rn as a passive tracer of subglacial distributed system drainage. Earth and Planetary Science Letters. DOI: [10.1016/j.epsl.2016.12.039](http://dx.doi.org/10.1016/j.epsl.2016.12.039).
+
+Hawkings, J., J Wadham, L. Benning, K. Hendry, M. Tranter, **A. Tedstone**, P. Nienow and R. Raiswell (2017). Ice sheets as a missing source of silica to the polar oceans. Nature Communications. DOI: [10.1038/ncomms14198](http://dx.doi.org/10.1038/ncomms14198).
+
+Wadham, J., J. Hawkings, J. Telling, D. Chandler, J. Alcock, E. O'Donnell, P. Kaur, E. Bagshaw, M. Tranter, **A. Tedstone** and P. Nienow (2016). Sources, cycling and export of nitrogen on the Greenland Ice Sheet. Biogeosciences. DOI: [10.5194/bg-13-6339-2016](http://dx.doi.org/10.5194/bg-13-6339-2016)
   
 de Fleurian, B., M. Morlighem, H. Seroussi, E. Rignot, M. R. van den Broeke, P. K. Munneke, J. Mouginot, P. C. J. P. Smeets and **A. Tedstone** (2016). A modelling study of the effect of runoff variability on the effective pressure beneath Russell Glacier, west Greenland. Journal of Geophysical Research: Earth Surface. DOI: [10.1002/2016JF003842](http://dx.doi.org/10.1002/2016JF003842)
 
