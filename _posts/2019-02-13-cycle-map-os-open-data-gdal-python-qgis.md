@@ -1,4 +1,8 @@
-# Making a cycle tour map for the wall
+---
+layout: post
+title: Making a cycle tour map for the wall using OS Open Data, GDAL, Python and QGIS
+---
+
 
 Last autumn I undertook my first cycle tour: from Bristol to Lands End, Cornwall over 4 days. I thought it would be good to remember the ride by making a map of the route for the wall. This became a bit more involved than expected...
 
