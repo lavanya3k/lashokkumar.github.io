@@ -1,0 +1,8 @@
+# pack-refs with: peeled fully-peeled sorted 
+f676574d9efcbddbe1cf81cd46e5a3b679f7d426 refs/heads/gh-pages
+8c8154bc9cdfb4cba19f1f3a3eba05b602a70ccd refs/heads/kramdown-and-rouge
+60039da8604aee35aadd06dddf4296b1285bb4d3 refs/heads/last_working_ver
+f16ed6a0b764bcae55599229b01e4026bf7bce73 refs/heads/master
+5d93016e580ee17ec5f9d3d4fe9e8e18805c7708 refs/tags/v1.0.0
+70fda2a5b43d1942f116fefe680eabe702070638 refs/tags/v1.1.0
+da13f8d9294dededb628904880808a713c0e9a60 refs/tags/v1.2.0
