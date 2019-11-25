@@ -6,7 +6,7 @@ redirect_from:
   - /md/
   - /markdown.html
 ---
-</images/AWG_Badge.png>
+<http://lashokkumar.github.io/images/AWG_Badge.png>
 
 
 Member of the Association of Women Geoscientists, southern Arizona chapter in Tucson. 	
