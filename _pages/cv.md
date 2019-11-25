@@ -25,11 +25,11 @@ Work experience
 	* Mass balance of ice-sheets and glaciers using GRACE dataset.
 
 * Postdoctoral Researcher  (Visitor status) - June 2017 – Feb 2018
-	* Department of Geography, College of Science, Swansea University SA2 8P, UK
+	* Department of Geography, College of Science, Swansea University, UK
 	* Time series analysis of glacier surge mechanism using Sentinel-1 dataset.
 
 * PhD Remote sensing Nov 2012 – Dec 2016
-	* Department of Geography, College of Science, Swansea University SA2 8P, UK
+	* Department of Geography, College of Science, Swansea University, UK
 	* Thesis: Understanding long-term glacier dynamics in the Himalayas using satellite remote sensing
 
 * Junior Research Fellow (M.S Res – Satellite image processing) Oct 2010 – Oct 2011
