@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-<img src="https://www.nasa.gov/sites/default/files/thumbnails/image/b40i5232.jpg" alt="alt text" width="500"  height="42">
+<img src="https://www.nasa.gov/sites/default/files/thumbnails/image/b40i5232.jpg" alt="alt text" width="550"  height="52">
 
 
 
