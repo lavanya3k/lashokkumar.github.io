@@ -22,7 +22,7 @@ Work experience
 ======
 * Postdoctoral Research Associate, Mar 2018 – present
 	* University of Arizona, Tucson USA
-	* Mass balance of ice-sheets and glaciers using GRACE dataset.
+	* Modeling glaciers and ice sheets using GRACE dataset.
 
 * Postdoctoral Researcher  (Visitor status) - June 2017 – Feb 2018
 	* Department of Geography, College of Science, Swansea University, UK
