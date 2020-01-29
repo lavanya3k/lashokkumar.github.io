@@ -6,30 +6,28 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-
 Here is the link to my CV [here](https://lavanya3k.github.io/lashokkumar.github.io/files/Lavanya_ashokkumar_CV_Nov2019.pdf)
 {% include base_path %}
 
 Education
 ======
 
-* Ph.D Glaciology and remote sensing, Swansea University, 2018. 
-* M.S. in Remote sensing, Anna University, 2012. 
-* B.Eng. in Geo-informatics, Anna University, 2007
-
+* Ph.D Glaciology and remote sensing, Swansea University, UK. 2017. 
+* M.S. in Remote sensing, Anna University, India. 2012. 
+* B.Eng. in Geo-informatics, Anna University, India. 2007
 
 Work experience
 ======
 * Postdoctoral Research Associate, Mar 2018 – present
 	* University of Arizona, Tucson USA
-	* Modeling glaciers and ice-sheets using GRACE dataset.
+	* Modelling present and future SMB of glaciers using GRACE dataset.
 
 * Postdoctoral Researcher  (Visitor status) - June 2017 – Feb 2018
-	* Department of Geography, College of Science, Swansea University, UK
+	* Department of Geography, College of Science, Swansea University SA2 8P, UK
 	* Time series analysis of glacier surge mechanism using Sentinel-1 dataset.
 
 * PhD Remote sensing Nov 2012 – Dec 2016
-	* Department of Geography, College of Science, Swansea University, UK
+	* Department of Geography, College of Science, Swansea University SA2 8P, UK
 	* Thesis: Understanding long-term glacier dynamics in the Himalayas using satellite remote sensing
 
 * Junior Research Fellow (M.S Res – Satellite image processing) Oct 2010 – Oct 2011
