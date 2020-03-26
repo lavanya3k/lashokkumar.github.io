@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-Here is the link to my CV [here](https://lavanya3k.github.io/lashokkumar.github.io/files/Lavanya_ashokkumar_CV_Dec2018.pdf)
+Here is the link to my CV [here](http://lavanya3k.github.io/lashokkumar.github.io/files/Lavanya_ashokkumar_CV_Nov2019.pdf)
 {% include base_path %}
 
 Education
@@ -22,7 +22,7 @@ Work experience
 ======
 * Postdoctoral Research Associate, Mar 2018 – present
 	* University of Arizona, Tucson USA
-	* Mass balance of ice-sheets and glaciers using GRACE dataset.
+	* Modelling the present and future SMB of glaciers using GRACE dataset.
 
 * Postdoctoral Researcher  (Visitor status) - June 2017 – Feb 2018
 	* Department of Geography, College of Science, Swansea University, UK
@@ -37,6 +37,7 @@ Work experience
   
 Awards and grants
 ======
+* Travel grant for ICESAT-2 hackweek ($1500), University of Washington Seattle, June 2019. 
 * Commonwealth Scholarship and Fellowship for PhD in Remote sensing (2012–2016).
 * Travel Grant (£750) by the International Glaciological society for the IGS Kathmandu, Nepal, March 2015.
 * Travel Grant for Young Scientist (INR 60, 000), awarded by the Council of Scientific and Industrial Research (CSIR), Government of India 

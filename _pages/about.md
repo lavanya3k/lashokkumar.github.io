@@ -11,7 +11,6 @@ redirect_from:
 <img src="https://www.nasa.gov/sites/default/files/thumbnails/image/b40i5232.jpg" alt="alt text" width="550"  height="52">
 
 
-
 I study glaciers and ice sheets from observations based on remote sensing and glacio-climate modelling. From my background in remote sensing and glaciology, I process data from different satellites that includes optical, SAR and gravimetry.  For understanding the interactions between glaciers and atmosphere, I use climate datasets that are based on meteorological station observations and large mathematical models like the general circulation models (GCM). 
 
 My research involves understanding the sensitivities of mountain glaciers and ice sheets to climate change. The population of mountain glaciers is relatively small compared to the two large ice sheets. Glaciers are important since they have been rapidly decreasing over the last decade. I use 

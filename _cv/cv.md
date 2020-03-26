@@ -20,7 +20,7 @@ Work experience
 ======
 * Postdoctoral Research Associate, Mar 2018 – present
 	* University of Arizona, Tucson USA
-	* Modelling present and future SMB of glaciers using GRACE dataset.
+	* Modelling the present and future SMB of glaciers using GRACE dataset.
 
 * Postdoctoral Researcher  (Visitor status) - June 2017 – Feb 2018
 	* Department of Geography, College of Science, Swansea University SA2 8P, UK
@@ -35,6 +35,7 @@ Work experience
   
 Awards and grants
 ======
+* Travel grant for ICESAT-2 hackweek ($1500), University of Washington Seattle, June 2019. 
 • Commonwealth Scholarship and Fellowship for PhD in Remote sensing (2012–2016).
 • Travel Grant (£750) by the International Glaciological society for the IGS Kathmandu, Nepal, March 2015.
 • Travel Grant for Young Scientist (INR 60, 000), awarded by the Council of Scientific and Industrial Research (CSIR), Government of India 
