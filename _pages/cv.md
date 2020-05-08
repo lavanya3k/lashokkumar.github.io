@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-Here is the link to my CV [here](http://lavanya3k.github.io/lashokkumar.github.io/files/Lavanya_ashokkumar_CV_Nov2019.pdf)  - Last updated on Dec 2019.
+Here is the link to my CV [here](http://lavanya3k.github.io/lashokkumar.github.io/files/Lavanya_ashokkumar_CV_Nov2019.pdf)  - Last updated on Jan 2020.
 {% include base_path %}
 
 Education
@@ -37,7 +37,7 @@ Work experience
   
 Awards and grants
 ======
-* First place in the University of Arizona postdoc speed talk, April 2020 ($2000). 
+* First place in the University of Arizona postdoc speed talk ($2000), April 2020 . 
 * Travel grant for ICESAT-2 hackweek ($1500), University of Washington Seattle, June 2019. 
 * Commonwealth Scholarship and Fellowship for PhD in Remote sensing (2012–2016).
 * Travel Grant (£750) by the International Glaciological society for the IGS Kathmandu, Nepal, March 2015.
