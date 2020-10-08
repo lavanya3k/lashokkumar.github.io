@@ -6,7 +6,7 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-Here is the link to my CV [here](http://lavanya3k.github.io/lashokkumar.github.io/files/Lavanya_ashokkumar_CV_Nov2019.pdf) - Last updated on Jan 2020.
+Here is the link to my CV [here](http://lavanya3k.github.io/lashokkumar.github.io/files/Lavanya_ashokkumar_CV_Nov2019.pdf) - Last updated on Sept 2020.
 {% include base_path %}
 
 Education
@@ -26,7 +26,7 @@ Work experience
 	* Department of Geography, College of Science, Swansea University SA2 8P, UK
 	* Time series analysis of glacier surge mechanism using Sentinel-1 dataset.
 
-* PhD Remote sensing Nov 2012 – Dec 2016
+* PhD Remote sensing Nov 2012 – June 2017
 	* Department of Geography, College of Science, Swansea University SA2 8P, UK
 	* Thesis: Understanding long-term glacier dynamics in the Himalayas using satellite remote sensing
 
