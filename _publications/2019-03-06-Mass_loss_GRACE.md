@@ -1,7 +1,7 @@
 ---
 title: "21st century estimates of mass loss rates in the Gulf of Alaska and Canadian Archipelago using a GRACE constrained glacier model"
-collection: publications
-permalink: /publication/2020-03-06-Mass_loss_GRACE
+collection: Publications
+permalink: /publication/2019-03-06-Mass_loss_GRACE
 excerpt: 'Glacier mass loss or melting is expected to increase due to global temperature, and the rates of loss are rapidly increasing in the recent decades.  In order to estimate the future sea-level rates more accurately, we need to determine the current rates of glacier loss. From our combined approach in glacier modelling and remote sensing, we are able to understand the sensitivity of glaciers in different regions to the climate change. We have identified the glacier loss is not dependent on the size of glacier. '
 date: 2020-03-06
 venue: 'The Cryosphere discussions- open to comments'
