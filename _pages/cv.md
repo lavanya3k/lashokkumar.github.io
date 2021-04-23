@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-Here is the link to my CV [here](http://lavanya3k.github.io/lashokkumar.github.io/files/Lavanya_ashokkumar_CV_Sept_2020.pdf)  - Last updated on  Sept 2020.
+Here is the link to my CV [here](http://lavanya3k.github.io/lashokkumar.github.io/files/Lavanya_ashokkumar_CV_April_2021.pdf) - Last updated on April 2021.
 {% include base_path %}
 
 Education
@@ -22,7 +22,7 @@ Work experience
 ======
 * Postdoctoral Research Associate, Mar 2018 – present
 	* University of Arizona, Tucson USA
-	* Modeling the present and future SMB of glaciers using GRACE dataset.
+	* Modeling the present and future mass loss from glaciers using GRACE dataset.
 
 * Postdoctoral Researcher  (Visitor status) - June 2017 – Feb 2018
 	* Department of Geography, College of Science, Swansea University, UK
@@ -37,6 +37,7 @@ Work experience
   
 Awards and grants
 ======
+*  Third place in Women in Data Science - Tucson chapter, April 2021. 
 * First place in the University of Arizona postdoc speed talk ($2000), April 2020 . 
 * Travel grant for ICESAT-2 hackweek ($1500), University of Washington Seattle, June 2019. 
 * Commonwealth Scholarship and Fellowship for PhD in Remote sensing (2012–2016).
