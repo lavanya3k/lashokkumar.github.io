@@ -9,7 +9,7 @@ redirect_from:
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSQBUMKaTeWykZjeu9f9JzREs6TFBHq4XNCYwvE3fl_-BEcxYOz" alt="alt text" width="350"  height="52">
 
 * Member of the Association of Women Geoscientists, Southern Arizona chapter in Tucson (2018 - present). <br/>
-   A program to connect all the women and allies in our department and promote women in geosciences.
+   A program to connect all the women and allies in our department and to promote women in geosciences.
    
  * Outreach co-coordinator, Association of Women Geoscientists, Southern Arizona chapter in Tucson (Nov 2019 - present). 
 
