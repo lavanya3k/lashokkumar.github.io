@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-Here is the link to my CV [here](http://lavanya3k.github.io/lashokkumar.github.io/files/Lavanya_ashokkumar_CV_Oct_2021.pdf) - Last updated on Oct 2021.
+Here is the link to my CV [here](http://lavanya3k.github.io/lashokkumar.github.io/files/Lavanya_ashokkumar_CV_Dec_2022.pdf) - Last updated on Dec 2022.
 {% include base_path %}
 
 Education
@@ -20,7 +20,10 @@ Education
 
 Work experience
 ======
-* Postdoctoral Research Associate, Mar 2018 – present
+* Lecturer (Teaching faculty), Fall 2022 – present
+    * University of Alabama Huntsville
+
+* Postdoctoral Research Associate, Mar 2018 – 2021
 	* University of Arizona, Tucson USA
 	* Modeling the present and future mass loss from glaciers using GRACE dataset.
 
@@ -37,6 +40,7 @@ Work experience
   
 Awards and grants
 ======
+*  Polar Science Early Career Community Office (PSECCO) Conference Travel Grant for AGU Fall Meeting 2022. ($670).
 *  Third place in Women in Data Science - Tucson chapter, April 2021. 
 * First place in the University of Arizona postdoc speed talk ($2000), April 2020 . 
 * Travel grant for ICESAT-2 hackweek ($1500), University of Washington Seattle, June 2019. 

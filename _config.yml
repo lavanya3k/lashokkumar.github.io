@@ -83,12 +83,12 @@ analytics:
 author:
   name             : ""
   avatar           : "Lavanya.jpg"
-  bio              : "Postdoctoral researcher studying glaciers and icesheets using remote sensing"
-  location         : "Tucson, AZ"
-  employer         : "University of Arizona"
+  bio              : "Lecturer and Researcher studying glacier mass loss using remote sensing"
+  location         : "Huntsville, AL"
+  employer         : "University of Alabama"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=sbTImFgAAAAJ&hl=en"
-  email            : "lavanya3k@gmail.com"
+  email            : "Lavanya.Ashokkumar@uah.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -110,7 +110,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "la_ashokkumar"
+  twitter          : "glacier_lavanya"
   vine             :
   weibo            :
   xing             :
