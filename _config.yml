@@ -83,7 +83,7 @@ analytics:
 author:
   name             : ""
   avatar           : "Lavanya.jpg"
-  bio              : "Lecturer and Researcher studying glacier mass loss using remote sensing"
+  bio              : "Lecturer and Researcher studying glacier mass loss using remote sensing and numerical methods"
   location         : "Huntsville, AL"
   employer         : "University of Alabama"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -211,15 +211,15 @@ defaults:
       layout: single
       author_profile: true
   # _teaching
-  #- scope:
-  #    path: ""
-  #    type: teaching
-  #  values:
-  #   layout: single
- #     author_profile: true
- #     share: true
-  #    comments: true
-  # _publications
+  - scope:
+     path: ""
+     type: teaching
+    values:
+     layout: single
+     author_profile: true
+     share: true
+     comments: true
+# _publications
   - scope:
       path: ""
       type: publications
