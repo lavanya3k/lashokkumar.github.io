@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-<img src="https://www.nasa.gov/sites/default/files/thumbnails/image/b40i5232.jpg" alt="alt text" width="1000"  height="52">
+<img src="http://lavanya3k.github.io/lashokkumar.github.io/files/taylorglacier.jpg" alt="alt text" width="1000"  height="52">
 <p align="justify">
 I am a <b>Lecturer </b> (equivalent to Assistant Professor of Teaching) in the Department of Atmospheric and Earth Science, University of Alabama Huntsville. My research contributes to the understanding of climate change from quantification of glacier melt and dynamics using satellite remote sensing and mathematical approaches. The primary goal of my work is understanding mass loss rates (sea-level estimates) using a combination of satellite remote sensing and numerical modeling. I have developed an unique glacier-climate model, in which I use satellite gravity measurements from GRACE satellites to determine the ice melt rates from Arctic glaciers, and estimate the contribution of ice melt in terms of sea-level rates until 2100 under CMIP5 and CMIP6 climate scenarios. <br>
 
@@ -19,7 +19,7 @@ My interests are inclined towards Arctic and mountain (High Mountain Asia) glaci
 (ii) Projections of glacier mass loss (sea-level rates) until 2100. <br>
 (iii) Understanding the relationship between climate and topography with glacier changes. <br>
 </p>
- <p style = "font-size:16px;color:black;">UPDATES </p> 
+ <p style = "font-size:18px;color:black;">UPDATES </p> 
  <div style="height:150px;width:800px;overflow:auto;border:4px solid yellowgreen;padding:2%">
 <marquee behavior="scroll" direction="up" scrolldelay="800" style="height:200px;">
 <b>Dec 2022</b> - Co-hosted a AGU session ED55A ‘Advancing Community, Equity, and Inclusion in the Polar and Alpine Sciences’, AGU Fall Meeting, Chicago, IL.  <br>

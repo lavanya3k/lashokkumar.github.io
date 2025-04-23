@@ -6,7 +6,7 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-Here is the link to my CV [here](http://lavanya3k.github.io/lashokkumar.github.io/files/Lavanya_Ashokkumar_CV_Dec_2022.pdf) - Last updated on Dec 2022.
+Here is the link to my CV [here](https://lavanya3k.github.io/lashokkumar.github.io/files/Lavanya_Ashokkumar_CV_April2025.pdf) - Last updated on April 2025.
 {% include base_path %}
 
 Education
@@ -18,18 +18,17 @@ Education
 
 Work experience
 ======
-* Lecturer (Teaching faculty), Fall 2022 – present
-    * University of Alabama, Huntsville, AL
+
+* Research Scientist, Dec 2024 - present
+	* Earth System Science Center, University of Alabama in Huntsville, AL
+
+* Lecturer (Teaching faculty), Fall 2022 – 2024
+	* Department of Atmospheric and Earth Science, University of Alabama in Huntsville, AL
 
 * Postdoctoral Research Associate, Mar 2018 – 2021
 	* University of Arizona, Tucson, AZ
-	* Modelling the present and future mass loss from glaciers using GRACE dataset.
 
-* Postdoctoral Researcher  (Visitor status) - June 2017 – Feb 2018
-	* Department of Geography, College of Science, Swansea University SA2 8P, UK
-	* Time series analysis of glacier surge mechanism using Sentinel-1 dataset.
-
-* PhD Remote sensing Nov 2012 – June 2017
+* PhD Remote sensing 2013 – 2017
 	* Department of Geography, College of Science, Swansea University SA2 8P, UK
 	* Thesis: Understanding long-term glacier dynamics in the Himalayas using satellite remote sensing
 
@@ -45,7 +44,6 @@ Awards and grants
 * Commonwealth Scholarship and Fellowship for PhD in Remote sensing (2012–2016).
 * Travel Grant (£750) by the International Glaciological society for the IGS Kathmandu, Nepal, March 2015.
 * Travel Grant for Young Scientist (INR 60, 000), awarded by the Council of Scientific and Industrial Research (CSIR), Government of India 
-	-  For the Conference 'AI in Space: Intelligence beyond planet earth', Spain, June 2011.
 * Master Research funded by Department of Space, Indian space Research organisation (ISRO), PLANEX  “Developing tools and techniques for lunar information extraction using multi-sensor image fusion”. (Oct 2010 – Oct 2011).
 
 

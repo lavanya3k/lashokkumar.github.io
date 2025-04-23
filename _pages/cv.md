@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-Here is the link to my CV [here](http://lavanya3k.github.io/lashokkumar.github.io/files/Lavanya_Ashokkumar_CV_Dec_2022.pdf) - Last updated on Dec 2022.
+Here is the link to my CV [here](https://lavanya3k.github.io/lashokkumar.github.io/files/Lavanya_Ashokkumar_CV_April2025.pdf) - Last updated on April 2025.
 {% include base_path %}
 
 Education

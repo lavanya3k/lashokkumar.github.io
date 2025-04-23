@@ -1,0 +1,19 @@
+current directory: /Users/lavanyaashokkumar/Lavanya/jekyll_site/2025/lashokkumar.github.io/vendor/bundle/ruby/3.4.0/gems/racc-1.8.1/ext/racc/cparse
+/Users/lavanyaashokkumar/.rubies/ruby-3.4.1/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/lavanyaashokkumar/Lavanya/jekyll_site/2025/lashokkumar.github.io/vendor/bundle/ruby/3.4.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20250422-26564-csze1u sitelibdir\=./.gem.20250422-26564-csze1u clean
+
+current directory: /Users/lavanyaashokkumar/Lavanya/jekyll_site/2025/lashokkumar.github.io/vendor/bundle/ruby/3.4.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20250422-26564-csze1u sitelibdir\=./.gem.20250422-26564-csze1u
+compiling cparse.c
+linking shared-object racc/cparse.bundle
+ld: warning: search path '/opt/homebrew/opt/gdbm/lib' not found
+
+current directory: /Users/lavanyaashokkumar/Lavanya/jekyll_site/2025/lashokkumar.github.io/vendor/bundle/ruby/3.4.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20250422-26564-csze1u sitelibdir\=./.gem.20250422-26564-csze1u install
+/usr/bin/install -c -m 0755 cparse.bundle ./.gem.20250422-26564-csze1u/racc
+
+current directory: /Users/lavanyaashokkumar/Lavanya/jekyll_site/2025/lashokkumar.github.io/vendor/bundle/ruby/3.4.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20250422-26564-csze1u sitelibdir\=./.gem.20250422-26564-csze1u clean
